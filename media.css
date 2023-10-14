@@ -35,6 +35,7 @@
     .c2{
         
         margin: 0 auto;
+        transform: translateX(80px)
         
     }
     .c1{
@@ -57,6 +58,8 @@
         align-items: center;
         justify-content: center;
     }
+    .header___search{
+        
 }
 @media(max-width: 768px) {
     .container {
